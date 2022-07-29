@@ -70,6 +70,12 @@ We will be conducting our training in Zoom. Everyone needs a webcam and micropho
 # Bullying
 Don't do it. I expect everyone to be totally professional at all times. I have a zero tollerance policy for bullying and other unprofessional behavior. Please do not make me take action about unprofessionalism. You may not be best friends with everyone you work with, but you should be polite, courteous, and professional with everyone. If you are curious what constitutes unprofessional behavior or bullying, ask. Keep in mind, the other associates are your co-workers, and I am your supervisor. You represent Revature. Act accordingly.
 
+# Professionalism
+Please be professional at all times in the Zoom meeting, in Teams forums, and in Teams direct messages. This includes but is not limited to:
+- No use of profanity
+- No language that is offensive or goes against inclusivity
+- Be respectful to everyone
+
 # Final Notes
 My intention of this syllabus isn't to scare anyone, but to set expectations that this will be an intense 10 weeks of learning. My sole job is to help you all and make sure you get through this course successfully and start the next step in your careers. If you've made it this far in the selection process, I have no doubt that you can make it through this course. Doing so, however, will require hard work, professionalism, team-work, and grit.
 
