@@ -23,7 +23,7 @@ QCs are a series of informal assessments conducted by trainers and the QC depart
 #### When it comes to QC code challenges, **do not collaborate or copy/paste at all**. Think of QC like an exam. All work must be your own.
 
 # Projects
-There will be a total of 4 projects you will all work on. We will start with Project 0, or P0, in week 1. P1, P2, and P3 will all be group projects. I will provide a document with very explicit requirements for P0-P2, and the CoE team will provide detailed requirements for the capstone project, P3.
+There will be a total of 2 projects you will all work on. We will start with Project 0, or P0, in week 1. P1, P2, and P3 will all be group projects. I will provide a document with very explicit requirements for P0-P2, and the CoE team will provide detailed requirements for the capstone project, P3.
   
 Each project will be acompanied by a showcase, where everyone shows off their work. P3 will be a big presentation involving everyone, and there may be hundreds of attendees from Revature and beyond to see your work.
 

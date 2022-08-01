@@ -24,7 +24,15 @@
     - We also made a week1 folder
 - Once we're done making these changes, we cant to push the changes back up to Github (or whatever website)
     - git status - lets us see the status of our files and folders
-    - git add - stage our files, move our files from unstages to staged
+    - git add - stage our files, move our files from unstages to staged, or ready to be pushed
         - git add os.md would take os.md from unstaged to staged
         - git add . - add everything that you changed to staged
+        - To make sure git add was successful, you can try git status and make sure the files are listed in green
+    - git commit - add a message to define what our changes are and get the changes ready to be pushed up
+        - git commit -m "Added some notes files"
+        - Whenever we commit code, we want to give a message that indicates what we changed
+    - git push - the step that takes your local changes and pushes them to the website
+        - git push origin main - pushes up to main branch
+        - if we only have one branch, we can just use git push
+    - To verify, we can navigate to our Github page and see the changes for ourselves
 
