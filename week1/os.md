@@ -1,0 +1,17 @@
+# Operating Systems
+- Windows
+- Mac
+- Linux
+- File Structure
+    - image
+    - text
+    - code
+    - folders that store files
+- Linux, we don't always have a visual interface to manipulate these files, we have to type in commands
+- To simulate this, we download a program called Git Bash
+- Git Bash has 2 features that will help us out
+    - Letting us run linux/unix commands to help simulate a Linux environment
+    - Learning how to use Git
+- To install Git Bash, follow this link: https://git-scm.com/downloads 
+    - Click on your Operating System and follow the instructions
+- Once Git Bash is installed, you can right-click on an empty directory and select "Git Bash Here" (not "Git GUI Here")
