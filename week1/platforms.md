@@ -1,4 +1,0 @@
-- Zoom is where we have our calls from 10-6 EST https://revature.zoom.us/j/88977082880
-- Revature Pro is where we can access curriculum information, class recordings
-- Microsoft Teams is where we chat, forums, comunication outside of Zoom
-- Github is where our notes, code, exercises will be hosted
